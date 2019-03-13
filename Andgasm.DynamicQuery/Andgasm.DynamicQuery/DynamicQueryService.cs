@@ -1,4 +1,5 @@
-﻿using AutoMapper;
+﻿using Andgasm.Resources.Core;
+using AutoMapper;
 using Microsoft.Extensions.Logging;
 using System;
 using System.Linq;
